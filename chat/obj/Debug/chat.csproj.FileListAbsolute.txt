@@ -1,0 +1,67 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.MeBubble.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.ChatHeader.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.SearchBox.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.TypingBox.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Users.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.YouBubble.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.BeautyForm.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\bin\Debug\chat.exe.config
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\bin\Debug\chat.exe
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\bin\Debug\chat.pdb
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.AssemblyReference.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.BeautyForm.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.Form1.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.MeBubble.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.ChatHeader.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.SearchBox.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.TypingBox.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.Users.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.YouBubble.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.exe
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.pdb
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\CSharp-ChatUI-Winforms-master\ChatUI\ChatUI Src\chat\obj\Debug\chat.UI.Login_Register_Form.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\chat.exe.config
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\chat.exe
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\chat.pdb
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.csproj.AssemblyReference.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.BeautyForm.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.Form1.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.MeBubble.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.ChatHeader.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.SearchBox.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.TypingBox.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.Users.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.YouBubble.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.UI.Login_Register_Form.resources
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.exe
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.pdb
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\FireSharp.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.csproj.App.config
+C:\Users\thinhdeptrai2k2\OneDrive\Desktop\MAT_MA\do_an\ChatUI\chat\obj\Debug\chat.csproj.CopyComplete
